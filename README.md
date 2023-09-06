@@ -4,15 +4,15 @@ Este repositório contém o Trabalho de Conclusão de Curso (TCC) desenvolvido c
 
 ## Descrição do Projeto
 
-O problema de retenção de alunos é crítico para instituições de ensino superior, pois afeta diretamente o sucesso acadêmico e financeiro da instituição. Este TCC aborda o problema da seguinte maneira:
+O problema de retenção de alunos é crítico para instituições de ensino, pois afeta diretamente o sucesso acadêmico e financeiro da instituição. Este TCC aborda o problema da seguinte maneira:
 
-- Coleta de Dados: Descrevemos o processo de coleta de dados, incluindo as fontes de dados utilizadas, os métodos de extração e o processo de limpeza e transformação dos dados.
+- Coleta de Dados: Descrevo o processo de coleta de dados, incluindo as fontes de dados utilizadas, os métodos de extração e o processo de limpeza e transformação dos dados.
 
-- Análise Exploratória de Dados: Apresentamos uma análise detalhada dos dados, incluindo visualizações e estatísticas descritivas que nos ajudaram a compreender melhor o problema.
+- Análise Exploratória de Dados: Apresento uma análise detalhada dos dados, incluindo visualizações e estatísticas descritivas que nos ajudaram a compreender melhor o problema.
 
-- Engenharia de Recursos: Discutimos as etapas de engenharia de recursos utilizadas para criar características relevantes para o problema de previsão de retenção de alunos.
+- Engenharia de Recursos: Discuto as etapas de engenharia de recursos utilizadas para criar características relevantes para o problema de previsão de retenção de alunos.
 
-- Modelagem Preditiva: Descrevemos os modelos de aprendizado de máquina utilizados, suas configurações e avaliações de desempenho. Incluímos também informações sobre como otimizamos esses modelos.
+- Modelagem Preditiva: Descrevo os modelos de aprendizado de máquina utilizados, suas configurações e avaliações de desempenho. Incluímos também informações sobre como otimizamos esses modelos.
 
 ## Estrutura do Repositório
 
@@ -89,4 +89,4 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE pa
 
 ## Agradecimentos
 
-Agradeço a todos que contribuíram para este projeto e à instituição de ensino por apoiar nossa pesquisa.
+Agradeço a todos que contribuíram para este projeto e à XP Educação por apoiar nossa pesquisa.
