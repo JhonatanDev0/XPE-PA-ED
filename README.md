@@ -56,7 +56,7 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 2. Clone o seu fork para o seu ambiente local:
 
 ```bash
-git clone https://github.com/JhonatanDev0/XPE-PA-ED;git
+git clone https://github.com/JhonatanDev0/XPE-PA-ED.git
 ```
 
 3. Crie uma branch para suas alterações:
@@ -81,7 +81,7 @@ git push origin minha-feature
 
 ## Autores
 
-- Jhonatan Oliveira (https://www.linkedin.com/in/jhonatandev/)
+- Jhonatan Oliveira - [Linkedin](https://www.linkedin.com/in/jhonatandev/)
 
 ## Licença
 
